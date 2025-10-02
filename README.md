@@ -16,13 +16,13 @@ It simulates a basic food delivery experience with a restaurant list, menu selec
 ## Screenshots
 
 Home Screen (Restaurant List):  
-![Home Screen](assets/home.png)
+![Home Screen](assetshome.png)
 
 Menu Screen:  
-![Menu Screen](assets/menu.png)
+![Menu Screen](assetsmenu.png)
 
 Checkout Screen:  
-![Checkout Screen](assets/checkout.png)
+![Checkout Screen](assetscheckout.png)
 
 ## How to Run
 
